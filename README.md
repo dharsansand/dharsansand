@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm DHARSAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400"  src ="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/custom-erp-software-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharsansand&label=Profile%20views&color=0e75b6&style=flat" alt="dharsansand" /> </p>
 
 - 🌱 I’m currently learning **REACT Native**
+
+- 👨‍💻 All of my projects are available at [https://bit.ly/3xKt5ZQ](https://bit.ly/3xKt5ZQ)
 
 - 💬 Ask me about **Android MEARN**
 
