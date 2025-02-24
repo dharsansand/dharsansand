@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharsansand&label=Profile%20views&color=0e75b6&style=flat" alt="dharsansand" /> </p>
 
-- 🌱 I’m currently learning **REACT Native**
+- 🌱 I’m currently learning **REACT DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3xKt5ZQ](https://bit.ly/3xKt5ZQ)
+- 👨‍💻 All of my projects are available at [https://capable-cascaron-9ba21c.netlify.app/](https://capable-cascaron-9ba21c.netlify.app/)
 
 - 💬 Ask me about **Android MEARN**
 
