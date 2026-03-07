@@ -10,7 +10,7 @@
 - 💬 Ask me about **Android MEARN**
 
 - 📫 How to reach me **dharsansand@gmail.com**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
