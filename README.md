@@ -13,7 +13,7 @@
     <a href="mailto:dharsansand@gmail.com">
       <img src="https://img.shields.io/badge/DIRECT_CONTACT-dharsansand@gmail.com-18141a?style=for-the-badge&logo=gmail&logoColor=F6DBC0" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/dharsan-s" target="_blank">
+    <a href="https://www.linkedin.com/in/dharsan-s-b7741a252" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
@@ -58,16 +58,11 @@
 ## 🌐 Competitive Programming & Profiles
 
 <p align="left">
-<a href="https://linkedin.com/in/dharsan-s" target="_blank">
+<a href="https://www.linkedin.com/in/dharsan-s-b7741a252" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" />
 </a>
-<a href="https://www.leetcode.com/dharsansand" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" width="38" />
-</a>
-<a href="https://www.hackerrank.com/@dharsansand" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="28" width="38" />
-</a>
-<a href="https://instagram.com/dharsan._.06" target="_blank">
+
+<a href="https://instagram.com/dharsan._.27" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="38" />
 </a>
 </p>
