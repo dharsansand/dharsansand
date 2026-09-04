@@ -1,68 +1,126 @@
-<h1 align="center">Hi 👋, I'm DHARSAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm DHARSAN S</h1>
+<h3 align="center">Full Stack Developer (MERN) | System Architect</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharsansand&label=Profile%20views&color=0e75b6&style=flat" alt="dharsansand" /> </p>
+<p align="center">
+  <a href="https://dharsanportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-dharsanportfolio.vercel.app-935073?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:dharsansand@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dharsansand@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/dharsan-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **REACT DEVELOPMENT**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dharsansand&label=Profile%20Views&color=935073&style=flat-square" alt="dharsansand profile views" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://capable-cascaron-9ba21c.netlify.app/](https://capable-cascaron-9ba21c.netlify.app/)
+---
 
-- 💬 Ask me about **Android MEARN**
+### 🚀 About Me
 
-- 📫 How to reach me **dharsansand@gmail.com**
+Full Stack Developer with **1+ years of production experience** engineering enterprise-grade ERP, CRM, and HRM systems. Specialized in high-throughput architectures, query optimization, and dynamic business workflows.
 
+- 💼 **Currently Working at**: Infygain Technologies (Full Stack Developer)
+- 🌐 **Live Portfolio**: **[https://dharsanportfolio.vercel.app/](https://dharsanportfolio.vercel.app/)**
+- ⚡ **Key Milestones**:
+  - Optimized MongoDB Aggregation pipelines cutting query latency by **60%** across 100K+ records.
+  - Built high-speed ETL data migration engines processing **10,000+ Excel records in < 5 seconds**.
+  - Engineered automated payroll computation systems with **Puppeteer headless PDF generation**.
+- 💬 **Ask me about**: **React.js, Next.js, Node.js, Express, MongoDB, Redux Toolkit & Redis**
+- 📫 **Contact Me**: **dharsansand@gmail.com** | **+91 9384428585**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack & Architecture
+
 <p align="left">
-<a href="https://linkedin.com/in/dharsan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharsan s" height="30" width="40" /></a>
-<a href="https://fb.com/dharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharsan" height="30" width="40" /></a>
-<a href="https://instagram.com/dharsan._.06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharsan._.06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dharsansand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dharsansand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dharsansand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharsansand" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dharsan" height="30" width="40" /></a>
+  <!-- Frontend -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42"/>
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="42" height="42"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="42" height="42"/>
+  </a>
+
+  <!-- Backend & DB -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="42" height="42"/>
+  </a>
+  <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/puppeteer/puppeteer-icon.svg" alt="Puppeteer" width="42" height="42"/>
+  </a>
+
+  <!-- Tools & Cloud -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="42" height="42"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoose" width="40" height="40"/> 
-  </a> 
+---
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-  </a> 
- 
+### 📌 Featured Production Architectures
+
+- 🏢 **Integrated Business Suite (ERP / CRM / HRM)**: End-to-end enterprise solution driving dynamic lead pipelines, multi-warehouse inventory ledgers, and automated payroll.
+- 🛒 **Dynamic E-commerce Platform**: Zero-code dynamic Admin CMS panel, persistent RTK Query cart state, and Razorpay payment gateway integration.
+- ⚡ **High-Speed ETL Engine**: Real-time batch Excel processing importing 10,000+ validated rows with roll-back resilience.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dharsan-s" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/dharsansand" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@dharsansand" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dharsan._.06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharsansand&show_icons=true&locale=en&layout=compact" alt="dharsansand" /></p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharsansand&show_icons=true&locale=en" alt="dharsansand" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharsansand&show_icons=true&theme=radical&hide_border=true&bg_color=07030d&title_color=f6dbc0&icon_color=b86b93&text_color=f8f4e9" alt="Dharsan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharsansand&layout=compact&theme=radical&hide_border=true&bg_color=07030d&title_color=f6dbc0&text_color=f8f4e9" alt="Top Languages" />
+</p>
