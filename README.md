@@ -17,9 +17,6 @@
       <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
-
-  <!-- Visitor Traffic Tracker -->
-  <img src="https://komarev.com/ghpvc/?username=dharsansand&label=PROFILE%20TRAFFIC&color=935073&style=flat-square" alt="Traffic Counter"/>
 </div>
 
 ## 📈 Verified Engineering Impact
